@@ -1,0 +1,11 @@
+.bundle
+**/Thumbs.db
+db/*.sqlite3
+log/*
+tmp/**/*
+capybara*.html
+coverage/*
+.DS_Store
+.project
+.idea
+coverage.data
